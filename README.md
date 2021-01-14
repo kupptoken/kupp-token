@@ -1,0 +1,2 @@
+# kupp-token
+KUPP
